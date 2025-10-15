@@ -1,9 +1,7 @@
-#!/usr/bin/env python3
 """
 Sistema básico de detección de movimientos de manos
 Usando OpenCV para detección de movimiento por color y contornos
-Autor: GitHub Copilot
-Fecha: 2025-10-13
+
 """
 
 import cv2
